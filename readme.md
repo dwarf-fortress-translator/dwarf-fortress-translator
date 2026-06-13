@@ -38,7 +38,7 @@ Select a unit, item, or artifact and press **Ctrl+T** at least once. This saves 
 
 ### Step 3: Install the program
 
-Download the program to any location, extract, and run the `.exe` file.
+Download the program to any location, extract, and run the `Dwarf Fortress Translator.exe` file.
 
 ### Step 4: Configure the program
 
