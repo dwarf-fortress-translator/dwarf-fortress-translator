@@ -99,12 +99,12 @@ Press **Ctrl+Alt** – the screen freezes, and you can select any area you want 
 | **Display time** | Translation display duration in seconds (1–300) |
 
 
+
 ## Video Tutorial
 
+## 🎥 Video Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2CpVJP5LWjc?si=gCYg6fwXhBd8d5cP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## 🔧 Running from Source
+[![Watch on YouTube](https://img.youtube.com/vi/2CpVJP5LWjc/maxresdefault.jpg)](https://www.youtube.com/watch?v=2CpVJP5LWjc)
 
 ```bash
 git clone https://github.com/dwarf-fortress-translator/dwarf-fortress-translator.git
