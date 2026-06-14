@@ -101,7 +101,11 @@ Press **Ctrl+Alt** – the screen freezes, and you can select any area you want 
 
 ## Video Tutorial
 
-[![Watch the tutorial](https://img.youtube.com/vi/2CpVJP5LWjc/maxresdefault.jpg)](https://www.youtube.com/watch?v=2CpVJP5LWjc)
+<h2>Video Tutorial</h2>
+
+<a href="https://www.youtube.com/watch?v=2CpVJP5LWjc">
+  <img src="https://img.youtube.com/vi/2CpVJP5LWjc/maxresdefault.jpg" alt="Watch the tutorial">
+</a>
 
 ## 🔧 Running from Source
 
