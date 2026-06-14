@@ -106,13 +106,6 @@ Press **Ctrl+Alt** – the screen freezes, and you can select any area you want 
 
 [![Watch on YouTube](https://img.youtube.com/vi/2CpVJP5LWjc/maxresdefault.jpg)](https://www.youtube.com/watch?v=2CpVJP5LWjc)
 
-```bash
-git clone https://github.com/dwarf-fortress-translator/dwarf-fortress-translator.git
-cd dwarf-fortress-translator
-pip install -r requirements.txt
-python main.py
-
-
 
 ## ❤️ Support the Project
 
@@ -127,3 +120,13 @@ If you find this project useful and would like to support its development, donat
 `TCDS3V5V7rWuxdab9SLCDRXz7LTwZKMzfB`
 
 Thank you for your support! 🚀
+
+```bash
+git clone https://github.com/dwarf-fortress-translator/dwarf-fortress-translator.git
+cd dwarf-fortress-translator
+pip install -r requirements.txt
+python main.py
+
+
+
+
