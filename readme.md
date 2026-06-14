@@ -55,8 +55,8 @@ Download the program to any location, extract, and run the `Dwarf Fortress Trans
 
 Press **Ctrl+Alt** – the screen freezes, and you can select any area you want to translate.
 
-- [Selection example](https://ibb.co/rRnF2XPy)
-- [Translation result example](https://ibb.co/FLSxdwJP)
+![Settings](start.jpg)
+![Settings](stop.jpg)
 
 ### Step 6: Quick translation of saved description
 
