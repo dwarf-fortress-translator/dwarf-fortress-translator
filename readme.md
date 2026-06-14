@@ -110,4 +110,20 @@ Press **Ctrl+Alt** – the screen freezes, and you can select any area you want 
 git clone https://github.com/dwarf-fortress-translator/dwarf-fortress-translator.git
 cd dwarf-fortress-translator
 pip install -r requirements.txt
-python main.py
+python main.py```
+
+
+
+## ❤️ Support the Project
+
+If you find this project useful and would like to support its development, donations are greatly appreciated but completely optional.
+
+### Litecoin (LTC)
+
+`ltc1qp5hu4lj274tngwv64v33lxkmnhe243autwfrr3`
+
+### Tron (TRX)
+
+`TCDS3V5V7rWuxdab9SLCDRXz7LTwZKMzfB`
+
+Thank you for your support! 🚀
