@@ -100,7 +100,6 @@ Press **Ctrl+Alt** – the screen freezes, and you can select any area you want 
 
 
 
-## Video Tutorial
 
 ## 🎥 Video Tutorial
 
@@ -109,23 +108,29 @@ Press **Ctrl+Alt** – the screen freezes, and you can select any area you want 
 
 ## ❤️ Support the Project
 
-If you find this project useful and would like to support its development, donations are greatly appreciated but completely optional.
+If you find this project useful and would like to support its development, donations are appreciated.
 
 ### Litecoin (LTC)
 
-`ltc1qp5hu4lj274tngwv64v33lxkmnhe243autwfrr3`
+```bash
+ltc1qp5hu4lj274tngwv64v33lxkmnhe243autwfrr3
+```
 
 ### Tron (TRX)
 
-`TCDS3V5V7rWuxdab9SLCDRXz7LTwZKMzfB`
+```bash
+TCDS3V5V7rWuxdab9SLCDRXz7LTwZKMzfB
+```
 
 Thank you for your support! 🚀
+
 
 ```bash
 git clone https://github.com/dwarf-fortress-translator/dwarf-fortress-translator.git
 cd dwarf-fortress-translator
 pip install -r requirements.txt
 python main.py
+```
 
 
 
