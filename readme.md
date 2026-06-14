@@ -47,6 +47,9 @@ Download the program to any location, extract, and run the `Dwarf Fortress Trans
 - Specify the path to `markdown_my_units.md`.  
   **Example path:**  
   `C:\Program Files (x86)\Steam\steamapps\common\Dwarf Fortress\markdown_my_units.md`
+  
+![Settings](readfile.jpg)
+![Settings](readfile2.jpg)
 
 
 ![Settings](https://raw.githubusercontent.com/dwarf-fortress-translator/dwarf-fortress-translator/main/setting.jpg)
@@ -73,6 +76,10 @@ Press **Ctrl+Alt** – the screen freezes, and you can select any area you want 
 | `Ctrl+Shift+2` | Show/hide settings window |
 | `Ctrl+T` (in game) | Save unit/item description to `.md` file (requires DFHack) |
 | `Ctrl+Num0` | Translate `markdown_my_units.md` file into overlay |
+
+![Settings](ctrlt.jpg)
+![Settings](ctrl0.jpg)
+
 
 ## ⚙️ Overlay Settings (Overlay Tab)
 
