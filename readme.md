@@ -98,6 +98,11 @@ Press **Ctrl+Alt** – the screen freezes, and you can select any area you want 
 | **Auto height** | Automatically adjust height to fit text |
 | **Display time** | Translation display duration in seconds (1–300) |
 
+
+## Video Tutorial
+
+[![Watch the tutorial](https://img.youtube.com/vi/2CpVJP5LWjc/maxresdefault.jpg)](https://www.youtube.com/watch?v=2CpVJP5LWjc)
+
 ## 🔧 Running from Source
 
 ```bash
