@@ -98,7 +98,13 @@ Press **Ctrl+Alt** – the screen freezes, and you can select any area you want 
 | **Auto height** | Automatically adjust height to fit text |
 | **Display time** | Translation display duration in seconds (1–300) |
 
-
+## Source
+```bash
+git clone https://github.com/dwarf-fortress-translator/dwarf-fortress-translator.git
+cd dwarf-fortress-translator
+pip install -r requirements.txt
+python main.py
+```
 
 
 ## 🎥 Video Tutorial
@@ -125,12 +131,7 @@ TCDS3V5V7rWuxdab9SLCDRXz7LTwZKMzfB
 Thank you for your support! 🚀
 
 
-```bash
-git clone https://github.com/dwarf-fortress-translator/dwarf-fortress-translator.git
-cd dwarf-fortress-translator
-pip install -r requirements.txt
-python main.py
-```
+
 
 
 
