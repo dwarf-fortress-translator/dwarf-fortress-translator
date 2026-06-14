@@ -48,7 +48,7 @@ Download the program to any location, extract, and run the `Dwarf Fortress Trans
   **Example path:**  
   `C:\Program Files (x86)\Steam\steamapps\common\Dwarf Fortress\markdown_my_units.md`
 
-![Settings example](https://ibb.co/Tx1B6cDW)
+![Settings](https://raw.githubusercontent.com/dwarf-fortress-translator/dwarf-fortress-translator/main/setting.jpg)
 
 ### Step 5: Translate selected area (Ctrl+Alt)
 
