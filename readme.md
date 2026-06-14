@@ -110,7 +110,7 @@ Press **Ctrl+Alt** – the screen freezes, and you can select any area you want 
 git clone https://github.com/dwarf-fortress-translator/dwarf-fortress-translator.git
 cd dwarf-fortress-translator
 pip install -r requirements.txt
-python main.py```
+python main.py
 
 
 
