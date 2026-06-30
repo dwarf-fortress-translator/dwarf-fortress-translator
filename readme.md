@@ -32,6 +32,13 @@ Open the DFHack console in Dwarf Fortress and run the following command:
 ```bash
 keybinding set Ctrl-T@dwarfmode/ViewSheets/UNIT|dwarfmode/ViewSheets/ITEM "markdown my_units -o"
 ```
+For autostart:
+add 
+```bash
+keybinding add Ctrl-T@dwarfmode/ViewSheets/UNIT|dwarfmode/ViewSheets/ITEM "markdown my_units -o"
+```
+to
+dfhack-config/init/dfhack.init
 ### Step 2: Save unit/item description in-game
 
 Select a unit, item, or artifact and press **Ctrl+T** at least once. This saves the description to `markdown_my_units.md`. The game will automatically overwrite this file each time you press the hotkey on a new unit or item.
